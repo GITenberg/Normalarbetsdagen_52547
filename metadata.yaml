@@ -1,0 +1,25 @@
+_repo: Normalarbetsdagen_52547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steffen, Gustaf Fredrik
+    alias: Steffen, Gustaf F. (Gustaf Fredrik)
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '46919'
+    url: http://www.gutenberg.org/2009/agents/46919
+description: ''
+gutenberg_issued: '2016-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52547'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eight-hour movement'
+- !lcc 'HD'
+- GITenberg
+title: Normalarbetsdagen
+url: http://www.gutenberg.org/ebooks/52547
